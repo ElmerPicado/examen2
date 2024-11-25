@@ -1,0 +1,7 @@
+C:\Users\epica\source\repos\clasesProgra2\clasesProgra2\bin\Debug\clasesProgra2.exe.config
+C:\Users\epica\source\repos\clasesProgra2\clasesProgra2\bin\Debug\clasesProgra2.exe
+C:\Users\epica\source\repos\clasesProgra2\clasesProgra2\bin\Debug\clasesProgra2.pdb
+C:\Users\epica\source\repos\clasesProgra2\clasesProgra2\obj\Debug\clasesProgra2.csproj.AssemblyReference.cache
+C:\Users\epica\source\repos\clasesProgra2\clasesProgra2\obj\Debug\clasesProgra2.csproj.CoreCompileInputs.cache
+C:\Users\epica\source\repos\clasesProgra2\clasesProgra2\obj\Debug\clasesProgra2.exe
+C:\Users\epica\source\repos\clasesProgra2\clasesProgra2\obj\Debug\clasesProgra2.pdb
